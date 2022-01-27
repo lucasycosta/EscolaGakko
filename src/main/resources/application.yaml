@@ -1,0 +1,11 @@
+# DEFINICAO LOG DA APLICACAO
+info:
+  app:
+    name: Projeto Escola Gakko
+
+spring:
+   application:
+      name: escolaGakko
+
+   profiles:
+      active: default, dev
